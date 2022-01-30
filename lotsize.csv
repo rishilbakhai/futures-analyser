@@ -1,0 +1,139 @@
+,0,1,2,3
+0,F&O Stock Name,Stock Symbol,Future Lot Size,Option Lot Size
+1,Nifty Bank,BANKNIFTY,25,25
+2,Nifty 50,NIFTY,75,75
+3,ACC Limited,ACC,500,500
+4,Ambuja Cements Ltd,AMBUJACEM,3000,3000
+5,Apollo Hospitals Enter. L,APOLLOHOSP,250,250
+6,Apollo Tyres Ltd,APOLLOTYRE,2500,2500
+7,Ashok Leyland Ltd,ASHOKLEY,4500,4500
+8,Bajaj Auto Limited,BAJAJ-AUTO,250,250
+9,Aurobindo Pharma Ltd,AUROPHARMA,1300,1300
+10,Bajaj Finserv Ltd.,BAJAJFINSV,125,125
+11,Bajaj Finance Limited,BAJFINANCE,125,125
+12,Federal Bank Ltd,FEDERALBNK,10000,10000
+13,Bharat Electronics Ltd,BEL,3800,3800
+14,Berger Paints (I) Ltd,BERGEPAINT,1100,1100
+15,Bharat Forge Ltd,BHARATFORG,1500,1500
+16,BHEL,BHEL,21000,21000
+17,Bosch Limited,BOSCHLTD,50,50
+18,Bharat Petroleum Corp Lt,BPCL,1800,1800
+19,Cholamandalam In & Fin Co,CHOLAFIN,1250,1250
+20,Cadila Healthcare Limited,CADILAHC,2200,2200
+21,Adani Enterprises Limited,ADANIENT,1000,1000
+22,Coal India Ltd,COALINDIA,3700,3700
+23,Cummins India Ltd,CUMMINSIND,600,600
+24,Divi’s Laboratories Ltd,DIVISLAB,400,400
+25,Eicher Motors Ltd,EICHERMOT,350,350
+26,Escorts India Ltd,ESCORTS,1100,1100
+27,Cipla Ltd,CIPLA,650,650
+28,GAIL (India) Ltd,GAIL,6100,6100
+29,Glenmark Pharmaceuticals,GLENMARK,2300,2300
+30,Godrej Consumer Products,GODREJCP,1000,1000
+31,Dabur India Ltd,DABUR,1250,1250
+32,Godrej Properties Ltd,GODREJPROP,650,650
+33,Grasim Industries Ltd,GRASIM,475,475
+34,Adani Port & Sez Ltd,ADANIPORTS,1250,1250
+35,Havells India Limited,HAVELLS,500,500
+36,HCL Technologies Ltd,HCLTECH,1400,1400
+37,Asian Paints Limited,ASIANPAINT,300,300
+38,Axis Bank Limited,AXISBANK,1200,1200
+39,Bandhan Bank Limited,BANDHANBNK,1800,1800
+40,HDFC Ltd,HDFC,300,300
+41,HDFC Bank Ltd,HDFCBANK,550,550
+42,Hindalco Industries Ltd,HINDALCO,2150,2150
+43,Hindustan Petroleum Corp,HINDPETRO,2700,2700
+44,Hindustan Unilever Ltd.,HINDUNILVR,300,300
+45,Indiabulls Hsg Fin Ltd,IBULHSGFIN,3100,3100
+46,Infosys Limited,INFY,1200,1200
+47,ICICI Pru Life Ins Co Ltd,ICICIPRULI,1500,1500
+48,Indraprastha Gas Ltd,IGL,1375,1375
+49,Interglobe Aviation Ltd,INDIGO,500,500
+50,Indusind Bank Limited,INDUSINDBK,800,800
+52,Indian Oil Corp Ltd,IOC,5700,5700
+53,ITC Ltd,ITC,3200,3200
+54,Jindal Steel & Power Ltd,JINDALSTEL,2500,2500
+55,Jubilant Foodworks Ltd,JUBLFOOD,500,500
+56,Kotak Mahindra Bank Ltd,KOTAKBANK,400,400
+57,L&T Finance Holdings Ltd,L&TFH,6800,6800
+58,Larsen & Toubro Ltd.,LT,550,550
+59,Sun Pharmaceutical Ind L,SUNPHARMA,1400,1400
+60,Lupin Limited,LUPIN,850,850
+61,Mahindra & Mahindra Ltd,M&M,700,700
+62,Torrent Pharmaceuticals L,TORNTPHARM,500,500
+63,M&M Fin. Services Ltd,M&MFIN,3444,3444
+64,Marico Limited,MARICO,2000,2000
+65,United Spirits Limited,MCDOWELL-N,1250,1250
+66,Max Financial Serv Ltd,MFSL,650,650
+67,Mahanagar Gas Ltd.,MGL,600,600
+68,Mindtree Limited,MINDTREE,400,400
+69,Britannia Industries Ltd,BRITANNIA,200,200
+70,MRF Ltd,MRF,10,10
+71,UPL Limited,UPL,1300,1300
+72,Coforge Limited,COFORGE,375,375
+73,NTPC Ltd,NTPC,5700,5700
+74,Oil And Natural Gas Corp.,ONGC,7700,7700
+75,Petronet Lng Limited,PETRONET,3000,3000
+76,PVR Limited,PVR,407,407
+77,The Ramco Cements Limited,RAMCOCEM,850,850
+78,REC Limited,RECLTD,6000,6000
+79,Reliance Industries Ltd,RELIANCE,505,505
+80,Sbi Life Insurance Co Ltd,SBILIFE,750,750
+81,Shree Cement Limited,SHREECEM,50,50
+82,Sun Tv Network Limited,SUNTV,1500,1500
+83,Tata Consumer Product Ltd,TATACONSUM,2700,2700
+84,Tata Motors Limited,TATAMOTORS,2850,2850
+85,Bank Of Baroda,BANKBARODA,8200,8200
+86,Dr. Reddy’s Laboratories,DRREDDY,250,250
+87,Tata Power Co Ltd,TATAPOWER,6750,6750
+88,Tata Consultancy Serv Lt,TCS,300,300
+89,Tech Mahindra Limited,TECHM,600,600
+90,Titan Company Limited,TITAN,375,375
+91,United Breweries Ltd,UBL,700,700
+92,Ultratech Cement Limited,ULTRACEMCO,200,200
+93,Vedanta Limited,VEDL,6200,6200
+94,Wipro Ltd,WIPRO,1600,1600
+95,Zee Entertainment Ent Ltd,ZEEL,3000,3000
+96,Bharti Airtel Limited,BHARTIARTL,1851,1851
+97,Canara Bank,CANBK,5000,5000
+98,Colgate Palmolive Ltd.,COLPAL,350,350
+99,Container Corp Of Ind Ltd,CONCOR,1563,1563
+100,DLF Limited,DLF,3300,3300
+101,Exide Industries Ltd,EXIDEIND,3600,3600
+102,Hero Motocorp Limited,HEROMOTOCO,300,300
+103,ICICI Bank Ltd.,ICICIBANK,1375,1375
+104,Vodafone Idea Limited,IDEA,140000,140000
+105,IDFC First Bank Limited,IDFCFIRSTB,9500,9500
+106,JSW Steel Limited,JSWSTEEL,1350,1350
+107,LIC Housing Finance Ltd,LICHSGFIN,2000,2000
+108,Maruti Suzuki India Ltd.,MARUTI,100,100
+109,Muthoot Finance Limited,MUTHOOTFIN,750,750
+110,National Aluminium Co Ltd,NATIONALUM,17000,17000
+111,NMDC Ltd.,NMDC,6700,6700
+112,Page Industries Ltd,PAGEIND,30,30
+113,Piramal Enterprises Ltd,PEL,275,275
+114,Power Fin Corp Ltd.,PFC,6200,6200
+115,Punjab National Bank,PNB,14000,14000
+116,Power Grid Corp. Ltd.,POWERGRID,4000,4000
+117,RBL Bank Limited,RBLBANK,2600,2600
+118,Steel Authority Of India,SAIL,9500,9500
+119,State Bank Of India,SBIN,1500,1500
+120,Siemens Ltd,SIEMENS,275,275
+121,Tata Chemicals Ltd,TATACHEM,1000,1000
+122,Torrent Power Ltd,TORNTPOWER,1500,1500
+123,Voltas Ltd,VOLTAS,500,500
+124,Amara Raja Batteries Ltd.,AMARAJABAT,1000,1000
+125,Balkrishna Ind. Ltd,BALKRISIND,800,800
+126,Bata India Ltd,BATAINDIA,550,550
+127,Biocon Limited,BIOCON,2300,2300
+128,HDFC Life,HDFCLIFE,1100,1100
+129,Manappuram Finance Ltd,MANAPPURAM,6000,6000
+130,Nestle India Limited,NESTLEIND,50,50
+131,Shriram Transport Fin Co.,SRTRANSFIN,400,400
+132,Tata Steel Limited,TATASTEEL,850,850
+133,GMR Infrastructure Ltd.,GMRINFRA,45000,45000
+134,Info Edge (I) Ltd,NAUKRI,125,125
+135,Pidilite Industries Ltd,PIDILITIND,500,500
+136,Motherson Sumi Systems,MOTHERSUMI,3500,3500
+137,SRF Ltd,SRF,250,250
+138,Tvs Motor Company Ltd,TVSMOTOR,1400,1400
